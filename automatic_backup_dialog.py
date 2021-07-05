@@ -9,7 +9,7 @@
         begin                : 2019-12-27
         git sha              : $Format:%H$
         copyright            : (C) 2019 by S.Poudroux
-        email                : seboon78@gmail.com
+        email                : sebastien.poudroux@kheper3d.com
  ***************************************************************************/
 
 /***************************************************************************
